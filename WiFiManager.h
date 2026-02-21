@@ -143,6 +143,10 @@
   #include "wm_strings_en.h"
 #elif defined(LANG_FR)
   #include "wm_strings_fr.h"
+#elif defined(LANG_PT)
+  #include "wm_strings_pt.h"
+#elif defined(LANG_PT_BR)
+  #include "wm_strings_pt_br.h"
 #else
   #include "wm_strings_en.h"
 #endif
